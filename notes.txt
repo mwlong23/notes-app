@@ -1,0 +1,6 @@
+- [ ] Audit email notification templates, packing slip templates
+- [ ] Verify all product information - Name, description, weight, fulfillment by? Inventory
+- [ ] Disable Password and Open store
+- [ ] SEO, instagram product tags and google analytics
+- [ ] Shipping fulfilment, shiping containers (envelopes vs boxes) 
+- [ ] Get same size product photos for even grid	 
